@@ -1,6 +1,6 @@
-@inproceedings{author20XXtitle,
-  title={Please cite me},
-  author={Author, First and Author, Second and Author, Third},
-  booktitle={Conference},
-  year={20XX}
+@inproceedings{Abdollahzadeh2021Revisit,
+  title={Revisit Multimodal Meta-Learning through the Lens of Multi-Task Learning},
+  author={Abdollahzadeh, Milad and Malekzadeh, Touba and Cheung, Ngai-Man},
+  booktitle={Neural Information Processing Systems},
+  year={2021}
 }
